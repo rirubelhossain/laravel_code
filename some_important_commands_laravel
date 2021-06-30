@@ -1,0 +1,8 @@
+php artisan serve ->strt server on laravel
+php artisan list -> check out for list
+php artisan migrate ->Migration data table onto the dataBase
+php artisan make:model model_name
+php artisan make:controller Controller_Name
+php artisan make:model Model_controller_table -mcr(both_model_controller)
+
+
