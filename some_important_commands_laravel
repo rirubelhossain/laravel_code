@@ -4,5 +4,11 @@ php artisan migrate ->Migration data table onto the dataBase
 php artisan make:model model_name
 php artisan make:controller Controller_Name
 php artisan make:model Model_controller_table -mcr(both_model_controller)
+php artisan require laravel/ui (this command used for laravel UI(user interface))
+php aritsan ui bootstarp (install for bootstarp)
+npm install (For nmp install)
+npm run dev(run npm developer)
+php artisan ui vue 
+
 
 
