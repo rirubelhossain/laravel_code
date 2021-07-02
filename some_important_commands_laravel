@@ -9,6 +9,7 @@ php aritsan ui bootstarp (install for bootstarp)
 npm install (For nmp install)
 npm run dev(run npm developer)
 php artisan ui vue 
+php artisan require livewire/livewire
 
 
 
