@@ -9,7 +9,9 @@ php aritsan ui bootstarp (install for bootstarp)
 npm install (For nmp install)
 npm run dev(run npm developer)
 php artisan ui vue 
-composer require livewire/livewire
+composer require livewire/livewire (first scripts)
+php artisan make:livewire HomeComponent (Second scripts)
+
 
 
 
