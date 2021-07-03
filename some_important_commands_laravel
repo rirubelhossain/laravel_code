@@ -12,6 +12,18 @@ php artisan ui vue
 composer require livewire/livewire (first scripts)
 php artisan make:livewire HomeComponent (Second scripts)
 
+below the head 
+@livewireStyles
+
+
+///body 
+
+@livewireScripts
+
+
+
+
+
 
 
 
