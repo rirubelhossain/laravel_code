@@ -25,6 +25,8 @@ php artisan jetstream: install livewire
 php artisan migrate:rollback --step=1
 php artisan migrate:rollback --step=1
 
+php artisan make:middleware AuthAdmin (For Middleware authentication)
+
 
 
 
