@@ -21,6 +21,8 @@ below the head
 @livewireScripts
 
 composer require laravel/jetstream 
+php artisan jetstream: install livewire
+
 
 
 
