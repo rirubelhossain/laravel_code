@@ -35,7 +35,7 @@ php artisan make:middleware AuthAdmin (For Middleware authentication)
 
 https://github.com/thecodeholic/php-developer-roadmap
 
-
+use Illuminate\Support\Facades\DB;
 
 
 
