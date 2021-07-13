@@ -19,6 +19,12 @@ below the head
 ///body 
 
 @livewireScripts
+//
+
+{{$slot}}
+before footer
+///
+
 
 composer require laravel/jetstream 
 php artisan jetstream: install livewire
