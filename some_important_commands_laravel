@@ -37,6 +37,9 @@ https://github.com/thecodeholic/php-developer-roadmap
 
 use Illuminate\Support\Facades\DB;
 
+composer dump-autoload
+php artisan db:seed
+
 
 
 
