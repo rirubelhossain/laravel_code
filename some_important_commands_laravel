@@ -27,7 +27,7 @@ before footer
 
 
 composer require laravel/jetstream 
-php artisan jetstream: install livewire
+php artisan jetstream:install livewire
 php artisan migrate:rollback --step=1
 php artisan migrate:rollback --step=1
 
