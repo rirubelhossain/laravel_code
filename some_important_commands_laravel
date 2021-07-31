@@ -40,6 +40,40 @@ use Illuminate\Support\Facades\DB;
 composer dump-autoload
 php artisan db:seed
 
+------------------------------
+Laravel E-commerce based project script
+---------------------------------------
+composer create-project laravel/laravel project_name
+(.env create_database)
+composer require livewire/livewire
+php artisan make:livewire HomeComponent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
