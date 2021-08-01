@@ -48,6 +48,10 @@ composer create-project laravel/laravel project_name
 composer require livewire/livewire
 php artisan make:livewire HomeComponent
 
+Admin Panel and user auth
+composer require laravel/jetstream
+php artisan jetstream:install laravel
+
 
 
 
