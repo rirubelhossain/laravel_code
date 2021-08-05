@@ -49,8 +49,8 @@ composer require livewire/livewire
 php artisan make:livewire HomeComponent
 
 Admin Panel and user auth
-composer require laravel/jetstream
-php artisan jetstream:install laravel
+composer require laravel/Jetstream
+php artisan jetstream:install livewire
 
 
 
