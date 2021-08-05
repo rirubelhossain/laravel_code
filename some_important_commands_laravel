@@ -52,6 +52,11 @@ Admin Panel and user auth
 composer require laravel/Jetstream
 php artisan jetstream:install livewire
 
+//Auth for login and registration
+npm install
+npm run dev
+
+
 
 
 
