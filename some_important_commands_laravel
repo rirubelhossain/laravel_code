@@ -56,6 +56,13 @@ php artisan jetstream:install livewire
 npm install
 npm run dev
 
+///model 
+php artisan make:model model_name -m
+php artisan make:factory CategoryFactroy --model=Category
+php artisan db:seed
+
+//shoppingcart
+composer require hardevine/shoppingcart
 
 
 
