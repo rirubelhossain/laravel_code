@@ -64,6 +64,10 @@ php artisan db:seed
 //shoppingcart
 composer require hardevine/shoppingcart
 
+// hometask 
+brand name
+brand logo
+
 
 
 
