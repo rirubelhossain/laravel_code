@@ -69,7 +69,11 @@ brand name
 brand logo
 
 
-
+---------------------------------------------------------500 server not found -----------------------------fixing
+php artisan cache:clear
+php artisan config:clear
+php artisan key:generate
+php artisan serve
 
 
 
