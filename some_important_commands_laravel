@@ -75,7 +75,8 @@ php artisan config:clear
 php artisan key:generate
 php artisan serve
 
-
+---------------------------------------------------------How to create migration table------------------------
+php artisan make:migration create_posts_table --create=posts 
 
 
 
