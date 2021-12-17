@@ -80,7 +80,17 @@ php artisan make:migration create_posts_table --create=posts
 
 
 
+----------------------------------------------------------How to use Eloquent ORM (Object Relationship Model).....................
+Create Model : php artisan make:model Student -m (-m model and migration both will be created )
 
+Schema::create('students', function (Blueprint $table) {
+            $table->id();
+            $table->string('name');
+            $table->string('email');
+            $table->string('phone');
+            $table->timestamps();
+        });
+       go model then write protected $table='students' ;
 
 
 
