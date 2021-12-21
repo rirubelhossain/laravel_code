@@ -91,7 +91,10 @@ Schema::create('students', function (Blueprint $table) {
             $table->timestamps();
         });
        go model then write protected $table='students' ;
-
+-----------------------------------------------------------Admin and user Authentication---------------------------------------
+composer require laravel/Jetstream
+php artisan jetstream:install livewire
+php artisan migrate
 
 
 
