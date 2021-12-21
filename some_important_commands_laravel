@@ -96,6 +96,9 @@ composer require laravel/Jetstream
 php artisan jetstream:install livewire
 php artisan migrate
 
+npm install
+npm ci
+npm run dev
 
 
 
